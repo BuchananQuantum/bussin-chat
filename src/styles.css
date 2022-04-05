@@ -1,0 +1,19 @@
+.chatsHeaderStyle {
+    background-color: #000;
+    color: #ffffff;
+    font-family: 'Roboto Mono', monospace;
+}
+.contactHeaderStyle {
+    background-color: #000;
+    color: #ffffff;
+    font-family: 'Roboto Mono', monospace;
+}
+.outer {
+    background-color: #000;
+    color: #ffffff;
+}
+.body {
+    background-color: #000;
+    color: #ffffff;
+    font-family: 'Roboto Mono' monospace;
+}

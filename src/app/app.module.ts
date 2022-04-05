@@ -24,6 +24,7 @@ import { CometChatUI } from "../cometchat-pro-angular-ui-kit/CometChatWorkspace/
 import { CometChatUserList } from "../cometchat-pro-angular-ui-kit/CometChatWorkspace/src/components/Users/CometChat-user-list/cometchat-user-list.module";
 import { CometChatUserListWithMessages } from "../cometchat-pro-angular-ui-kit/CometChatWorkspace/src/components/Users/CometChat-user-list-with-messages/cometchat-user-list-with-messages.module";
 import { CometChatAvatar } from "../cometchat-pro-angular-ui-kit/CometChatWorkspace/src/components/Shared/CometChat-avatar/cometchat-avatar.module";
+
 @NgModule({
   declarations: [
     AppComponent,
